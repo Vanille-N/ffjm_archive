@@ -1,4 +1,4 @@
-#let solution(figure) = [
+#let solution = [
 
   *11*
 
